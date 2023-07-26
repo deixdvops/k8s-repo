@@ -17,5 +17,5 @@ spec:
         app: redis
     spec:
       containers:
-      - image: redis:1
+      - image: redis:2
         name: redis
